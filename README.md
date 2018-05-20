@@ -6,4 +6,4 @@ this project is example of Bootstrap 4 with Traversy Media Video. Please visit [
 
 ## View in GitHub Pages
 You can view in
-[LoopLAB](https://franzmedrano.github.io/LoopLAB/) - Products App
+[LoopLAB](https://franzmedrano.github.io/LoopLAB/) - LoopLAB Web
